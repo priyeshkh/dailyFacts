@@ -21,13 +21,10 @@ body {
 }
 
 .logo {
-  background-color: #6366f1;
+  /* background-color: #6366f1; */
   display: flex;
   align-items: center;
-<<<<<<< HEAD
   gap: 16px;
-=======
->>>>>>> 9ee532f2d5f0299692cfb146fc3614e95d9c8634
 }
 
 .fact-form {
@@ -43,10 +40,6 @@ h1 {
   font-family: "Coiny", system-ui;
   line-height: 1;
   margin-top: 6px;
-<<<<<<< HEAD
-=======
-  margin-left: 20px;
->>>>>>> 9ee532f2d5f0299692cfb146fc3614e95d9c8634
 }
 
 .fact {
