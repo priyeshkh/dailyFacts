@@ -13,8 +13,6 @@ body {
 
 .header {
   margin-bottom: 40px;
-  background-color: #f43f5e;
-  padding: 10px;
   display: flex;
   align-items: center;
   justify-content: space-between;
